@@ -2,6 +2,7 @@
  
 Project Description
 This Power BI project is a sales dashboard that provides insights into buying and selling trends, as well as profit and profit percentage. The data is calculated using Power Query and visualized on a dashboard in Power BI.
+![Screenshot 2023-08-19 235749](https://github.com/MinaJoseph01/sales_report-dashboard/assets/142174893/ee9dfdc6-c719-48a4-ad14-44662441f9bc)
 
 Features
 Buying and selling trends
