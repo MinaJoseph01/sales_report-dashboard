@@ -1,4 +1,4 @@
-# sales_report dashboard
+# Market sales report dashboard
  
 Project Description
 This Power BI project is a sales dashboard that provides insights into buying and selling trends, as well as profit and profit percentage. The data is calculated using Power Query and visualized on a dashboard in Power BI.
@@ -27,5 +27,4 @@ If you encounter any issues or have any questions, please contact [insert contac
 Contributing
 If you would like to contribute to this project, please [insert contribution guidelines].
 
-License
-This project is licensed under [insert license].
+
